@@ -97,8 +97,13 @@ I love crafting **responsive web apps**, building **solid backends**, and explor
       <img src="https://img.shields.io/badge/Platform-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>💡 More coming soon...</h3>
-      <p>Always building something new. Stay tuned! 👀</p>
+      <h3>📦 use-snapping-konva</h3>
+      <p>A lightweight TypeScript utility for Konva.js that adds smart snapping and visual guidelines when dragging or resizing shapes on a canvas. Supports snap-to-center, snap-to-borders, and snap-to-shapes with fully customizable guidelines.</p>
+      <a href="https://www.npmjs.com/package/use-snapping-konva"><img src="https://img.shields.io/npm/v/use-snapping-konva?style=flat-square&logo=npm&logoColor=white&color=CB3837" /></a>
+      <img src="https://img.shields.io/badge/TypeScript-100%25-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+      <br/>
+      <a href="https://www.npmjs.com/package/use-snapping-konva">npm</a> · <a href="https://github.com/saroto/UseSnapKonva">GitHub</a>
     </td>
   </tr>
 </table>
