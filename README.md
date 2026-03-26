@@ -138,15 +138,6 @@ I love crafting **responsive web apps**, building **solid backends**, and explor
 
 ---
 
-## 💼 Work Experience
-
-| Role | Focus | Period |
-|------|-------|--------|
-| 🎨 **Frontend Software Developer** *(Current)* | Responsive Web Apps, UI/UX, React & Vue | 2023 – Present |
-| 🔧 **Side Projects** | Spring Boot, LLM Integration, Chrome Extensions | 2024 – Present |
-
----
-
 <div align="center">
 
 ### 💬 Let's connect and build something awesome together!
