@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kimsinh%20Seang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20%E2%9C%A6%20Backend%20%E2%9C%A6%20LLM%20Explorer&descAlignY=52&descSize=16" />
@@ -151,4 +151,4 @@ I love crafting **responsive web apps**, building **solid backends**, and explor
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-</div>
+</div> -->
